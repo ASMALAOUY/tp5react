@@ -11,9 +11,7 @@
 
 > Un projet d'apprentissage des fondamentaux React : formulaires contrôlés/non-contrôlés, lifting state up et Context API.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/screenshot.png" alt="Aperçu du projet" width="800">
-</div>
+
 
 ##  Table des matières
 - [ Fonctionnalités](#-fonctionnalités)
