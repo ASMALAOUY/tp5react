@@ -7,7 +7,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
+![Made with Love](https://img.shields.io/badge/Made%20with--red.svg)
 
 > Un projet d'apprentissage des fondamentaux React : formulaires contrôlés/non-contrôlés, lifting state up et Context API.
 
@@ -15,36 +15,27 @@
   <img src="https://user-images.githubusercontent.com/placeholder/screenshot.png" alt="Aperçu du projet" width="800">
 </div>
 
-## 📋 Table des matières
-- [✨ Fonctionnalités](#-fonctionnalités)
-- [🎓 Concepts appris](#-concepts-appris)
-- [📸 Aperçu](#-aperçu)
-- [🚀 Installation](#-installation)
-- [💻 Utilisation](#-utilisation)
-- [📁 Structure du projet](#-structure-du-projet)
-- [🎯 Exercices bonus](#-exercices-bonus)
-- [🛠️ Technologies utilisées](#️-technologies-utilisées)
-- [🤝 Contribution](#-contribution)
-- [📝 Licence](#-licence)
-- [👨‍💻 Auteur](#-auteur)
-- [🙏 Remerciements](#-remerciements)
+##  Table des matières
+- [ Fonctionnalités](#-fonctionnalités)
+- [ Concepts appris](#-concepts-appris)
+- [ Aperçu](#-aperçu)
+- [ Installation](#-installation)
+- [ Utilisation](#-utilisation)
+- [ Structure du projet](#-structure-du-projet)
+- [ Exercices bonus](#-exercices-bonus)
+- [ Technologies utilisées](-technologies-utilisées)
+- [ Contribution](#-contribution)
+- [ Licence](#-licence)
+- [ Auteur](#-auteur)
+- [ Remerciements](#-remerciements)
 
-## ✨ Fonctionnalités
-
-### 📝 Formulaire Contrôlé
-- ✅ Gestion d'état avec `useState`
-- ✅ Validation en temps réel
-- ✅ Feedback utilisateur instantané
-- ✅ Design moderne et responsive
-
-```javascript
-const [nom, setNom] = useState('');
-const [email, setEmail] = useState('');
-
-## Demo
+##  Demo
 
 
 
 
-Uploading React App — Mozilla Firefox 2026-04-06 19-38-38.mov…
+
+https://github.com/user-attachments/assets/cb99b263-bb81-4edd-ab70-6317e9c71fae
+
+
 
